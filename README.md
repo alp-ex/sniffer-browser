@@ -1,5 +1,3 @@
-# Readme for Rust Web Scraper and Packet Sniffer
-
 ## Description
 This Rust project includes web scraping functionalities and packet sniffing capabilities. It utilizes the `iced` framework for a graphical user interface, enabling users to input URLs, view scraped content, and monitor network traffic to capture domain names from DNS requests.
 
